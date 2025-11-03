@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Deni!
 
-🎓 I'm a Computer Science student currently working on my **Bachelor’s thesis**:  
-**“A Dashboard for Analyzing Model Performance in Multi-Class Classification across Different Data Sources.”**
+🎓 I'm a Computer Science student at RWTH Aachen currently working on my **Bachelor’s thesis**:  
+**“A Dashboard for analysis of Model Performance for multi-class classification of data from different data sources.”**
 
 💻 I’m passionate about:
 - Data visualization & analytics  
@@ -13,7 +13,7 @@
 - Data handling and visualization
 
 📊 Current Projects:
-- **Model Performance Dashboard (Thesis)** – visualizing ML metrics across sources  
+- **Model Performance Dashboard (Thesis)** – visualizing ML metrics across sources, assesing data source quality  
 - **Study Room Availability App** – web app showing free study spots in Aachen  
 
 🧠 Interests:
