@@ -5,12 +5,14 @@
 
 💻 I’m passionate about:
 - Data visualization & analytics  
-- Machine learning model evaluation  
-- Building interactive dashboards and web apps  
+- Machine learning models
+- Building interactive dashboards and web apps
+- Developing web apps that solve a certain problem
 
 🌱 Currently learning:
 - **Angular** and **D3.js**
 - Data handling and visualization
+- how to develop a personal web app
 
 📊 Current Projects:
 - **Model Performance Dashboard (Thesis)** – visualizing ML metrics across sources, assesing data source quality  
