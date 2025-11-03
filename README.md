@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src= "https://www.hightechinstitute.nl/wp-content/uploads/2023/08/course-training-introduction-to-sysml.jpeg" alt = "SysML" width="40" height="40"/>
+  <img src= "https://www.hightechinstitute.nl/wp-content/uploads/2023/08/course-training-introduction-to-sysml.jpeg" alt = "SysML" width="80" height="80"/>
 
 
   <!-- Frameworks & Libraries -->
@@ -49,6 +49,7 @@
 <img src="https://th.bing.com/th/id/R.7d94be89382cd7904477880f19d0ea31rik=oj0qiBbVTXdeEw&riu=http%3a%2f%2flatextosvg.com%2fLaTeX_logo.svg&ehk=xpi9ABUGMIiDTLsjivsLHqQ2BMNZWmbasySXOQyvbZE%3d&risl=&pid=ImgRaw&r=0" alt="LaTeX" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://www.triniteq.com/hubfs/Triniteq_Mar2023/Heroes/Integrations-Round/opera_circle_header_t.png" alt="Opera PMS" width="40" height="40"/>
 </p>
 
 
